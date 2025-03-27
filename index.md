@@ -6,3 +6,9 @@
 
 
 [logz kids](logz.html)
+
+### Life in weeks project
+
+[see my life](https://copyhold.github.io/lifeinweeks/ilya)
+
+Or [create your own](https://copyhold.github.io/lifeinweeks)
